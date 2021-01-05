@@ -1,5 +1,4 @@
 # Final_SSWP
-President University
 echo "# Final_SSWP" >> README.md
 git init
 git add README.md
